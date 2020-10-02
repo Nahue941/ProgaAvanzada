@@ -24,11 +24,5 @@ public class Circulo {
 	public String toString() {
 		return "Circulo [centro:" + centro + ", radio:" + radio + "]";
 	}
-	
-	
-	
-	
-	
-	
 
 }
